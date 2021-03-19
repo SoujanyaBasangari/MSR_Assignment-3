@@ -1,0 +1,404 @@
+name,repo_url,correct
+PointNet++: *Deep Hierarchical Feature Learning on Point Sets in a Metric Space*,https://github.com/lijinglezhang/pointnet-_modify,Y
+PanPhon,https://github.com/dmort27/panphon,Y
+video_obj,https://github.com/guanfuchen/video_obj,Y
+SafeCV,https://github.com/matthewwicker/SafeCV,Y
+Async-RL,https://github.com/muupan/async-rl,Y
+example/ctc,https://github.com/apache/incubator-mxnet/tree/master/example/ctc,N
+Tribler,https://github.com/Tribler/tribler,Y
+tf-YOLO-pascalVOC,https://github.com/jiama843/tf-YOLO-pascalVOC,Y
+IPsolve,https://github.com/saravkin/IPsolve,Y
+TADPOLE,https://github.com/noxtoby/TADPOLE,Y
+VGGNet-CNN-architecture,https://github.com/Aniket7/VGGNet-CNN-architecture,Y
+Modified-mnist,https://github.com/lxdragoon/Modified-mnist,Y
+Multilingual Translation,https://github.com/DevSinghSachan/multilingual_nmt,Y
+ERNIE,https://github.com/thunlp/ERNIE,Y
+End2You - The Imperial Toolkit for Multimodal Profiling,https://github.com/end2you/end2you,Y
+#VSM,https://github.com/inpho/vsm,N
+FAR-HO,https://github.com/lucfra/FAR-HO,Y
+"py-faster-rcnn has been deprecated. Please see Detectron, which includes an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870).",https://github.com/rickyHong/py-faster-rcnn-repl,N
+Attention is all you need: A Pytorch Implementation,https://github.com/jadore801120/attention-is-all-you-need-pytorch,Y
+incubator-mxnet,https://github.com/apache/incubator-mxnet,Y
+HR101-MXNet,https://github.com/chinakook/hr101_mxnet,Y
+PyDenseCRF,https://github.com/lucasb-eyer/pydensecrf,Y
+Sodeep's Final Project,https://github.com/wonjaek36/sodeep_final,Y
+tiny-dqn,https://github.com/jonaths/tf-dqn,Y
+myWatchedProjects,https://github.com/kjaft/myWatchedProjects,Y
+MATIC,https://github.com/phuijse/MATIC,Y
+NeuralTalk2,https://github.com/karpathy/neuraltalk2,Y
+This repository contains the code that was used for the Sequential,https://github.com/cooijmanstim/recurrent-batch-normalization,N
+WSL-Images,https://github.com/facebookresearch/WSL-Images,Y
+OctaveConv,https://github.com/terrychenism/OctaveConv,Y
+NIPS'14-SSL,https://github.com/dpkingma/nips14-ssl,Y
+StyleGAN &mdash; Official TensorFlow Implementation,https://github.com/NVlabs/stylegan,Y
+Readme,https://github.com/Styrke/master-code,N
+pupiltracker,https://github.com/LeszekSwirski/pupiltracker,Y
+TinyYOLOv2 in Tensorflow made easier,https://github.com/simo23/tinyYOLOv2,Y
+BREXIT-APPLICATION,https://github.com/wbglaeser/brexit-sentiment,Y
+Tars,https://github.com/masa-su/Tars,Y
+Tensorflow TCN,https://github.com/Baichenjia/Tensorflow-TCN,Y
+RelVis,https://github.com/SchmaR/RelVis,Y
+We move forward to MXNet !,https://github.com/dmlc/cxxnet,N
+RL_example,https://github.com/sjYoondeltar/IQN_example,Y
+Argus solution TGS Salt Identification Challenge,https://github.com/lRomul/argus-tgs-salt,Y
+DropIn-ESN,https://github.com/FrancescoCrecchi/DropIn-ESN,Y
+seqlearn,https://github.com/larsmans/seqlearn,Y
+Efficient Neural Architecture Search via Parameter Sharing,https://github.com/Ezereal/enas,Y
+fine_tuning_VGG16,https://github.com/evvyy/fine_tuning_VGG16,Y
+RDSA,https://github.com/prashla/RDSA,Y
+Unsupervised Machine Translation,https://github.com/facebookresearch/UnsupervisedMT,Y
+Multi-Graph Convolutional Neural Networks,https://github.com/fmonti/mgcnn,Y
+MTCNN face detection & alignment all in TensorFlow,https://github.com/wanjinchang/MTCNN_USE_TF_E2E,Y
+pedestrian_recognition,https://github.com/cftang0827/human_recognition,Y
+stance-conditional,https://github.com/sheffieldnlp/stance-conditional,Y
+*SphereFace*: Deep Hypersphere Embedding for Face Recognition,https://github.com/vohoaiviet/sphereface,N
+replika-research,https://github.com/lukalabs/replika-research,Y
+A Generative Model for Volume Rendering,https://github.com/matthewberger/tfgan,Y
+Progressive Growing of GANs,https://github.com/hukkelas/progan-pytorch,Y
+A network for handwritten digit string recognition (HDSR) with RNN and CTC in Caffe.,https://github.com/LPAIS/HDSR-with-RNN,Y
+KGraph: A Library for Approximate Nearest Neighbor Search,https://github.com/aaalgo/kgraph,Y
+self-driving-car,https://github.com/udacity/self-driving-car,Y
+Harmonic Networks,https://github.com/matej-ulicny/harmonic-networks,Y
+Simultaneous Edge Alignment and Learning (SEAL),https://github.com/Chrisding/seal,Y
+perez,https://github.com/nbatfai/perez,Y
+OCNet: Object Context Network for Scene Parsing (pytorch),https://github.com/PkuRainBow/OCNet.pytorch,Y
+Keras Resnext Feature Pyramid Network,https://github.com/guilherme-pombo/keras_resnext_fpn,Y
+Bayesian Poisson tensor factorization,https://github.com/aschein/bptf,Y
+Word Embedding Visual Inspector,https://github.com/ronxin/wevi,Y
+flownet2-pytorch,https://github.com/NVIDIA/flownet2-pytorch,Y
+COCO API - http://cocodataset.org/,https://github.com/cocodataset/cocoapi,Y
+CNNs for Text Classification in PyTorch,https://github.com/threelittlemonkeys/text-cnn-pytorch,Y
+Voice Converter using deep learning.,https://github.com/mindmapper15/Voice-Converter,Y
+Dehaze-GAN,https://github.com/thatbrguy/Dehaze-GAN,Y
+Introduction,https://github.com/AlexGrinch/ro_sgns,N
+tf-faster-rcnn is deprecated:,https://github.com/Sunnyhoster/tf-faster-rcnn,N
+DenseMapNet,https://github.com/roatienza/densemapnet,Y
+bAbI tasks,https://github.com/facebook/bAbI-tasks,Y
+semantic-tagging,https://github.com/bjerva/semantic-tagging,Y
+/********************************************************************,https://github.com/mingyuliutw/ers,N
+Pretrained models for Pytorch (Work in progress),https://github.com/Cadene/pretrained-models.pytorch,Y
+Chainer implementation of non-negative PU learning and unbiased PU learning,https://github.com/kiryor/nnPUlearning,Y
+Zoph\_RNN: A C++/CUDA toolkit for training sequence and sequence-to-sequence models across multiple GPUs,https://github.com/isi-nlp/Zoph_RNN,N
+EfficientNet-Gluon,https://github.com/mnikitin/EfficientNet,Y
+BERT,https://github.com/Laura1021678398/CCF-Bert,N
+____________ Transfer Learning,https://github.com/jindongwang/transferlearning,Y
+gym_connect4,https://github.com/RandyDeng/gym_connect4,Y
+Simultaneous Edge Alignment and Learning (SEAL),https://github.com/zhusiling/SEAL,Y
+F# XDF 2018 Workshop,https://github.com/XDF2018/ML_Embedded_Workshop,N
+tvmodels,https://github.com/rohitgr7/tvmodels,Y
+Plant Classification with Lasagne/Theano,https://github.com/IgnacioHeredia/plant_classification,Y
+mainumby,https://github.com/hltdi/mainumby,Y
+APE-GAN in Tensorflow,https://github.com/shenqixiaojiang/APE-GAN,Y
+FractalNet: Ultra-deep neural networks without residuals,https://github.com/khanrc/pt.fractalnet,Y
+Attention Transfer,https://github.com/szagoruyko/attention-transfer,Y
+Introduction,https://github.com/somnath-banerjee/deep,N
+ML Models,https://github.com/Hayashi-Yudai/ML_models,Y
+GPflow,https://github.com/GPflow/GPflow,Y
+Experiments using Feedforward Networks with Attention,https://github.com/craffel/ff-attention,Y
+A Deep Network for Arousal-Valence Emotion Prediction with Acoustic-Visual Cues,https://github.com/pengsongyou/OMG-ADSC,Y
+Marvin,https://github.com/aikanor/marvin,Y
+SARC,https://github.com/NLPrinceton/SARC,Y
+CNN_BILSTM_CRF - tensorflow,https://github.com/XiafeiYu/CNN_BILSTM_CRF,Y
+Boosted Generative Models,https://github.com/ermongroup/bgm,Y
+Domain Spesific Question Answering Assistant,https://github.com/umutguneri/Question-Answering-Assistant,Y
+HanLP: Han Language Processing,https://github.com/hankcs/HanLP,Y
+Embarrasingly distributed parallel loop on clusters of computers,https://github.com/arjoly/clusterlib,Y
+Goldfinch: GOogLe image-search Dataset for FINe grained CHallenges,https://github.com/google/goldfinch,Y
+Face-Recognition-And-Verification,https://github.com/keshav47/Face-Recognition-And-Verification,Y
+Pytorch implementation of Pipeline Model Parallelism as described in Google AI article https://arxiv.org/pdf/1811.06965.pdf,https://github.com/alondj/Pytorch-Gpipe,Y
+bilm-tf,https://github.com/horizonheart/ELMO,Y
+PyTorch SRResNet,https://github.com/sdauzcm/SR-pytorch-SRResNet,Y
+Integrated Gradients,https://github.com/ankurtaly/Attributions,Y
+Kateglo,https://github.com/ivanlanin/kateglo,Y
+Unsupervised Data Augmentation,https://github.com/peisuke/UnsupervisedDataAugmentation.pytorch,Y
+A port of SSD: Single Shot MultiBox Detector to [Keras](https://keras.io) framework.,https://github.com/NextGuido/SSD-keras,N
+Tutorial-of-Graph-Neural-Network,https://github.com/trichtu/Tutorial-of-Graph-Neural-Network,Y
+py-faster-rcnn,https://github.com/guanfuchen/py-faster-rcnn,Y
+The VGLC,https://github.com/TheVGLC/TheVGLC,Y
+SparQ,https://github.com/dwolter/sparq,Y
+MLND_Capstone_Project,https://github.com/soham239/MLND_Capstone_Project,Y
+bootstrapped - confidence intervals made easy,https://github.com/facebookincubator/bootstrapped,Y
+Self-critical Sequence Training for Image Captioning (+ misc.),https://github.com/hjjpku/dynamic_graph_caption,Y
+Neural Style Transfer : Generating art using Deep Learning,https://github.com/SupratimH/neural-style-transfer,Y
+PIP-experiments,https://github.com/aaaasssddf/PIP-experiments,Y
+Code accompanying our Dist-GAN and [GN-GAN](https://arxiv.org/abs/1811.01333) (update soon) papers.,https://github.com/tntrung/gan,N
+Spike-GAN,https://github.com/manuelmolano/Spike-GAN,Y
+Introduction,https://github.com/carlosb1/upc-aidl-19-team4,N
+1/12/14,https://github.com/NovembreLab/Novembre_etal_2008_misc,N
+```,https://github.com/yangboz/TransferLearning4Dentist,N
+QANet,https://github.com/NLPLearn/QANet,Y
+Learning a Single Convolutional Super-Resolution Network for Multiple Degradations,https://github.com/cszn/SRMD,Y
+m2det-tf(WIP)(Unusable),https://github.com/cjpurackal/m2det-tf,Y
+PatchBatch - a Batch Augmented Loss for Optical Flow,https://github.com/DediGadot/PatchBatch,Y
+ESNet,https://github.com/xiaoyufenfei/ESNet,Y
+ComputerVisionTensorFlowMLNET,https://github.com/CESARDELATORRE/ComputerVisionTensorFlowMLNET,Y
+DeepLearning5922,https://github.com/DivJAth/DeepLearning5922,Y
+Kernel Activation Functions,https://github.com/ispamm/kernel-activation-functions,Y
+![Shoelace](https://github.com/rjagerman/shoelace),https://github.com/rjagerman/shoelace,N
+________________�_____________________________________,https://github.com/sheldonnnn/exception,Y
+OMG_UMONS_submission,https://github.com/jbdel/OMG_UMONS_submission,Y
+isic-2017-segmentation,https://github.com/learningtitans/isbi2017-part1,Y
+COCO API - http://cocodataset.org/,https://github.com/pdollar/coco,Y
+forecast,https://github.com/robjhyndman/forecast,Y
+English - ______,https://github.com/mikevoets/jama16-retina-replication,N
+WMH Segmentation Challenge - MICCAI 2017,https://github.com/hjkuijf/wmhchallenge,Y
+honk,https://github.com/castorini/honk,N
+Bayesian Generative Adversarial Networks in Tensorflow,https://github.com/KeAWang/BayesianGAN4AdversarialAttacks,Y
+adnn,https://github.com/dritchie/adnn,Y
+By Plataformatec.,https://github.com/plataformatec/devise,N
+dynet,https://github.com/clab/dynet,Y
+Space-Invaders-DQN,https://github.com/Jzar/Space-Invaders-DQN,Y
+Materials Science Word Embeddings,https://github.com/olivettigroup/materials-word-embeddings,Y
+"py-faster-rcnn has been deprecated. Please see Detectron, which includes an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870).",https://github.com/UPCLJ/py-faster-rcnn,N
+About,https://github.com/distrep/DMLT,N
+"98,9 % Validation Accuracy - CarND-Traffic-Sign-Classifier-Project",https://github.com/autonomobil/SCDND-P2_Traffic-Sign-Classifier,N
+Graphical Generative Adversarial Networks (Graphical-GAN),https://github.com/zhenxuan00/graphical-gan,Y
+Ancestral Causal Inference (ACI):,https://github.com/caus-am/aci,Y
+cs224w-project,https://github.com/kandluis/cs224w-project,Y
+hello-srrc2016,https://github.com/ibalpowr/hello-srrc2016,N
+Semi-Global Matching on the GPU,https://github.com/dhernandez0/sgm,Y
+"This repository contains the Nux Processor developed during the Brain-i-Nets,",https://github.com/electronicvisions/nux,N
+Data Distillation,https://github.com/linghu8812/Data_Distillation,Y
+Summary,https://github.com/sunju/psv,N
+Summarizing Radiology Reports using Neural Sequence to Sequence Learning,https://github.com/abhishekr7/Summarization-of-Radiological-Reports,Y
+Rigid Batch Norm,https://github.com/bettersituation/rigid_batch_norm,Y
+Image Super-Resolution Using Very Deep Residual Channel Attention Networks,https://github.com/yulunzhang/RCAN,Y
+ELU-vs-ReLU-for-Image-Recognition,https://github.com/chuk-yong/ELU-vs-ReLU-for-Image-Recognition,Y
+___�________ EyeBird (__ ____________ _�_____�____________),https://github.com/toseek01/eyebird,Y
+Machine Learning for Neuroimaging with Scikit-Learning,https://github.com/AlexandreAbraham/frontiers2013,Y
+YARS,https://github.com/kzahedi/YARS,Y
+GPyTorch (Beta Release),https://github.com/jrg365/gpytorch,Y
+RPNplus,https://github.com/huangshiyu13/RPNplus,Y
+Self-Attention GAN,https://github.com/jugatsingh/self_attention_video,Y
+An experiment in using data flow programs to create animations.,https://github.com/anhinga/fluid,Y
+Yolo-v3 and Yolo-v2 for Windows and Linux,https://github.com/ShaharrHorn/Detection-Game-logic,Y
+Unsupervised Learning for Parking Detection,https://github.com/KushajveerSingh/Unsupervised-Parking-Lot-Detection,Y
+uni-dep-tb,https://github.com/ryanmcd/uni-dep-tb,Y
+"PyTorch Image Models, etc",https://github.com/rwightman/pytorch-image-models,Y
+SharpNet is an Open-source Deep Learning library written in C# 7.0.,https://github.com/FranckZibi/SharpNet,Y
+README of the CIBB dataset.,https://github.com/sythello/CIBB-dataset,N
+PCPM,https://github.com/rusiaaman/PCPM,Y
+Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet,https://github.com/adityaagrawal7/speech-to-text-wavenet,Y
+Install the package using,https://github.com/MLSurvival/RegCox,N
+NCRF++: An Open-source Neural Sequence Labeling Toolkit,https://github.com/jiesutd/NCRFpp,Y
+EmotionNet2,https://github.com/co60ca/EmotionNet2,Y
+Face Recognition Using Pytorch,https://github.com/timesler/facenet-pytorch,Y
+Soft Dictionary enhanced NER model,https://github.com/lyutyuh/acl19_subtagger,Y
+BERT,https://github.com/freedombenLiu/bert,Y
+FairKidneyExchange,https://github.com/duncanmcelfresh/FairKidneyExchange,Y
+Aesthetic-Driven Image Enhancement by Adversarial Learning,https://github.com/dannysdeng/EnhanceGAN,Y
+Car color classification example with YOLOv3 object detector,https://github.com/spectrico/car-color-classifier-yolo3-python,Y
+article-imagery,https://github.com/earth-genome/article-imagery,Y
+Reproducible research : Python implementation of SparseHebbianLearning,https://github.com/bicv/SHL_scripts,Y
+Tagger,https://github.com/XMUNLP/Tagger,Y
+Advanced_ML,https://github.com/Lxrd-AJ/Advanced_ML,Y
+Large Scale Detection through Adaptation,https://github.com/jhoffman/lsda,Y
+Reject Option Project,https://github.com/rjgsousa/RejectOption,Y
+___# Yolo-v3 and Yolo-v2 for Windows and Linux,https://github.com/asultan123/alexy_accel,N
+Compares self-normalizing MLPs with regular MLPs.,https://github.com/keras-team/keras/blob/master/examples/reuters_mlp_relu_vs_selu.py,Y
+CVST,https://github.com/tammok/CVST,Y
+Tacotron 2 Explained,https://github.com/codetendolkar/tacotron-2-explained,Y
+disparate-impact,https://github.com/ustunb/disparate-impact,Y
+PyTorch Implementation of ResNet-preact,https://github.com/hysts/pytorch_resnet_preact,Y
+style_transfer/monroe,https://github.com/caffe2/models/tree/master/style_transfer/monroe,Y
+Kaldi Speech Recognition Toolkit,https://github.com/kaldi-asr/kaldi,Y
+What,https://github.com/sai-dev/sai,N
+OOBCurve,https://github.com/PhilippPro/OOBCurve,Y
+#andrew ng machine learning old in python,https://github.com/Geeks-Sid/Information-on-deep-learning,N
+xPACS,https://github.com/meghanathmacha/xPACS,Y
+style_transfer/triangle2_b,https://github.com/caffe2/models/tree/master/style_transfer/triangle2_b,Y
+Gen,https://github.com/probcomp/Gen,Y
+Towards Principled Design of Deep Convolutional Networks: Introducing SimpNet,https://github.com/Coderx7/SimpNet,Y
+wikiextractor,https://github.com/walid-shalaby/wikiextractor,Y
+fastText,https://github.com/jen1995/fastText,Y
+deep_coding_notes,https://github.com/bifeng/deep_coding_notes,Y
+TextBoxes: A Fast Text Detector with a Single Deep Neural Network,https://github.com/MhLiao/TextBoxes,Y
+Master of Data Science,https://github.com/jonnor/datascience-master,Y
+Neural Message Passing for Quantum Chemistry,https://github.com/priba/nmp_qc,Y
+Spectral Graph Convolutional Networks for Sequence Labelling in Keras,https://github.com/JHart96/keras_gcn_sequence_labelling,Y
+"SHIELD: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression",https://github.com/rickyHong/JPEG-Defense-repl,Y
+SimpleRecurrentUnits-SRU-,https://github.com/suzhiba/SimpleRecurrentUnits-SRU-,Y
+|Logo|,https://github.com/scikit-optimize/scikit-optimize,N
+ACWGAN,https://github.com/jackyjsy/ACWGAN,Y
+Video_Up_Scalers,https://github.com/VideoUpScaler/Video_Up_Scalers,Y
+This is the source code for PBNF and the algorithms described in:,https://github.com/eaburns/pbnf,N
+Deep Cascade of Convolutional Neural Networks and Convolutioanl Recurrent Nerual Networks for MR Image Reconstruction,https://github.com/js3611/Deep-MRI-Reconstruction,Y
+example/ssd,https://github.com/apache/incubator-mxnet/tree/master/example/ssd,Y
+Traveling Salesperson Problem,https://github.com/beckysag/traveling-salesman,Y
+Wgan-GP_cats,https://github.com/spandan2/Wgan-GP_cats,Y
+__�___,https://github.com/satan0314/object-5,Y
+%%%%%%%%%%%%%%%%%%%%%%%%% LINCENSE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%,https://github.com/gkirtzou/ksup_svm,N
+COMBO,https://github.com/360er0/COMBO,Y
+Trained image classification models for Keras,https://github.com/fchollet/deep-learning-models,Y
+"This repository holds the code base supporting the article ""Fast genetic  algorithms"" by Benjamin Doerr, Huu Phuoc Le, R__gis Makhmara, and Ta Duy  Nguyen. The conference version of this work is accepted for publication in the proceedings of GECCO 2017. An extended version can be found on the ArXiV at https://arxiv.org/abs/1703.03334.",https://github.com/FastGA/fast-genetic-algorithms,N
+Octave Convolution,https://github.com/braincreators/octconv,Y
+Neural Question Generation,https://github.com/bloomsburyai/question-generation,Y
+Citar - Trigram HMM part-of-speech tagger,https://github.com/danieldk/citar,Y
+RL-Zoo,https://github.com/InSpaceAI/RL-Zoo,Y
+amr-eager,https://github.com/mdtux89/amr-eager,Y
+Chat Bot (Python),https://github.com/TDeepanshPandey/Chat_Bot,Y
+RRPN: Radar Region Proposal Network for Sensor Fusion in Autonomous Vehicles,https://github.com/mrnabati/RRPN,Y
+example/vae-gan,https://github.com/apache/incubator-mxnet/tree/master/example/vae-gan,Y
+Generalising Random Forest Parameter Optimisation to Include Stability and Cost,https://github.com/liuchbryan/generalised_forest_tuning,Y
+OptimBench,https://github.com/IoannisAntonoglou/optimBench,Y
+Graph2Seq,https://github.com/IBM/Graph2Seq,Y
+topic-ensemble,https://github.com/derekgreene/topic-ensemble,Y
+Auto-Encoder Matching Model,https://github.com/lancopku/AMM,Y
+DRIT,https://github.com/Bingwen-Hu/DRIT,Y
+Age Progression/Regression by Conditional Adversarial Autoencoder (CAAE),https://github.com/ZZUTK/Face-Aging-CAAE,Y
+"Extending the BiDAF Model with ""No Answer""",https://github.com/tikyau/bidaf-quick-test,Y
+IBM Code Model Asset Exchange: ResNet-50 Image Classifier,https://github.com/IBM/MAX-ResNet-50,Y
+3DMatch Toolbox,https://github.com/andyzeng/3dmatch-toolbox,Y
+shared-info,https://github.com/Helsinki-NLP/shared-info,Y
+Open Relational Extraction,https://github.com/shitian-taiger/relational-extraction,Y
+MobileNet-V2 and IGCV3,https://github.com/xxradon/IGCV3-pytorch,Y
+Generative Adversarial Networks,https://github.com/tensorpack/tensorpack/tree/master/examples/GAN,Y
+PyTorch-Encoding,https://github.com/CWanli/myencoding,Y
+MapReduce Nonnegative Matrix Factorizations of near-separable tall-and-skinny matrices (MRNMF).,https://github.com/arbenson/mrnmf,Y
+Kylo - The FAQ Bot,https://github.com/avinassh/kylo,Y
+CurveLRR,https://github.com/sjtrny/curveLRR,Y
+Augmentation,https://github.com/HazyResearch/augmentation_code,Y
+The repository contains some python scripts for training and inferring test document vectors using paragraph vectors or doc2vec.,https://github.com/jhlau/doc2vec,N
+cs101-project5,https://github.com/cosmicomic/cs101-project5,Y
+monodepth,https://github.com/mrharicot/monodepth,Y
+TFGAN Examples,https://github.com/tensorflow/models/tree/master/research/gan,Y
+NLP-Beginner______________�__________________,https://github.com/gitzgk/nlp-beginner,Y
+PointNet++: *Deep Hierarchical Feature Learning on Point Sets in a Metric Space*,https://github.com/brbzjl/pointnet2,Y
+Single Shot Text Detector with Regional Attention,https://github.com/BestSonny/SSTD,Y
+Tensorflow F__vrier,https://github.com/maxpastor/tensorflow-fevrier,Y
+"Hello,",https://github.com/sebastian-hofstaetter/neural-ranking-drmm,N
+bartMachine,https://github.com/kapelner/bartMachine,Y
+PELESent,https://github.com/edilsonacjr/pelesent,Y
+tf-faster-rcnn,https://github.com/xinpingwang/tf-faster-rcnn,Y
+Implementation of a CNN model to classify/predict punctuation for sentences,https://github.com/LeoTSH/cnn_text_puncutation_classification,Y
+CNMeM Library,https://github.com/NVIDIA/cnmem,Y
+Real-time-FaceRecognition,https://github.com/yehengchen/FaceNet-FaceRecognition,Y
+Hack-Aubg-2018,https://github.com/eftPavel/Hack-Aubg-2018,Y
+"PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume",https://github.com/yanqi1811/PWC-Net,Y
+Partial implemention of Pointnet and Pointnet++ written in PyTorch.,https://github.com/ftdlyc/pointnet_pytorch,Y
+68 keypoint annotations for COFW test data,https://github.com/golnazghiasi/cofw68-benchmark,Y
+BMC,https://github.com/demotu/BMC,Y
+Cause Effect Pairs Challenge FirfiD Submission,https://github.com/ssamot/causality,Y
+vid2depth,https://github.com/tensorflow/models/tree/master/research/vid2depth,Y
+pix2pixHD,https://github.com/NVIDIA/pix2pixHD,Y
+gandalf,https://github.com/neurob/gandalf_detector,Y
+The Implicit Bias of Gradient Descent on Separable Data,https://github.com/paper-submissions/MaxMargin,Y
+Engineering Lab Facial Recognition,https://github.com/StPauls-Computer-Science/ng-lab-face-recognition,Y
+Description,https://github.com/julianser/hed-dlg-truncated,N
+CPA,https://github.com/gotazu/CPA,Y
+About,https://github.com/wjaskowski/mastering-2048,N
+core-stories,https://github.com/andyreagan/core-stories,Y
+Self-Attention GAN,https://github.com/ladadidadida/Self-Attention-GAN,Y
+Tiramisu,https://github.com/dariogarcia/tiramisu,Y
+lstm_model_py,https://github.com/hikaruya8/lstm_model_py,Y
+DrQA,https://github.com/facebookresearch/DrQA,Y
+Meta-Learning with Differentiable Convex Optimization,https://github.com/kjunelee/MetaOptNet,Y
+InterpNet,https://github.com/sbarratt/interpnet,Y
+A port of SSD: Single Shot MultiBox Detector to [Keras](https://keras.io) framework.,https://github.com/Taikono-Himazin/SSD,N
+Stacked Hourglass model : TensorFlow implementation,https://github.com/wbenbihi/hourglasstensorlfow,Y
+Cloud TPUs,https://github.com/serre-lab/gala_tpu,Y
+QANet in keras,https://github.com/ewrfcas/QANet_keras,Y
+Overview,https://github.com/swasun/VQ-VAE-Speech,N
+Merging and Evolution: Improving Convolutional Neural Networks for Mobile Application,https://github.com/clavichord93/MENet,Y
+ESRGAN-TensorFlow,https://github.com/itsuki8914/ESRGAN-TensorFlow,Y
+"Script for the Robust Ensemble of SVMs (RESVM) method. For algorithm details,",https://github.com/claesenm/resvm,N
+MultiPath Network training code,https://github.com/facebookresearch/multipathnet,Y
+Generating Images with Recurrent Adversarial Networks,https://github.com/jiwoongim/GRAN,Y
+___# Yolo-v3 and Yolo-v2 for Windows and Linux,https://github.com/AtlasCoCo/Darknet,N
+CoordConv,https://github.com/uber-research/coordconv,Y
+"MNIST reconstruction using Convnet, Neuralnet and CapsuleNets",https://github.com/mshaikh2/GANs_Comparison,Y
+Adding Loss-Sensitive DCGAN,https://github.com/houze-liu/vanilla-wasserstein-loss-sensitive-dcgan_gradient_penalty,Y
+Deep Reinforcement Learning with Human Checkpoint Replay,https://github.com/ionelhosu/atari-human-checkpoint-replay,Y
+Residual Dense Network in Tensorflow,https://github.com/keerthan2/RDN-Tensorflow,Y
+ResNet,https://github.com/Stick-To/ResNet-tensorflow,Y
+LiteFlowNet,https://github.com/twhui/LiteFlowNet,Y
+Peripersonal Space,https://github.com/robotology/peripersonal-space,Y
+HotelReviews_SentimentAnalysis,https://github.com/floraxinru/NLP_HotelReviews,Y
+AGB,https://github.com/lrouviere/AGB,Y
+Implementation similar to Unpaired Image-to-Image translation,https://github.com/mehdidc/any2any,Y
+Repositorio de pruebas en ML y DL para clasificaci__n de texto,https://github.com/ManuelVs/NNForTextClassification,Y
+Neural Network Implementations,https://github.com/secretlyvogon/IndRNNTF,Y
+Speech-to-Text-WaveNet2 : End-to-end sentence level English speech recognition using DeepMind's WaveNet,https://github.com/kingstarcraft/speech-to-text-wavenet2,Y
+"Infrared small target and background separation via column-wise weighted robust principal component analysis, Y Dai, Y Wu, Y Song - Infrared Physics & Technology, 2016",https://github.com/YimianDai/DENTIST,Y
+Network structure,https://github.com/eremo2002/Keras-ResNet,N
+FATML2017,https://github.com/petelan/FATML2017,Y
+HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis,https://github.com/xh-liu/HydraPlus-Net,Y
+COLORGAN,https://github.com/ccyyatnet/COLORGAN,Y
+CoordConv - Implementation,https://github.com/piyush2896/CoordConv-Implementation,Y
+tf-faster-rcnn,https://github.com/neuqgz/modify-faster-rcnn-tf,Y
+pysc2-study,https://github.com/haroldmei/pysc2-study,Y
+deepBoF,https://github.com/juhannam/deepbof,Y
+*R-FCN*: Object Detection via Region-based Fully Convolutional Networks,https://github.com/daijifeng001/r-fcn,N
+Systematic Study of Color Spaces and Components for the Segmentation of Sky/Cloud Images,https://github.com/Soumyabrata/color-channels,Y
+EBGAN,https://github.com/buriburisuri/ebgan,Y
+Getting started,https://github.com/mblum/libgp,N
+"Adapting code for sentiment analysis of twitter to analysis of claims in the scientific literature. This is for descriptive and analytical purposes, with no prescriptive intent.",https://github.com/williamgunn/SciSentiment,N
+Character-Region-Awareness-for-Text-Detection-,https://github.com/guruL/Character-Region-Awareness-for-Text-Detection-,Y
+CrazyAra - Deep Learning for Crazyhouse,https://github.com/QueensGambit/CrazyAra,Y
+openalpr,https://github.com/openalpr/openalpr,Y
+CartoonGAN-TensorFlow2,https://github.com/mnicnc404/CartoonGan-tensorflow,Y
+The Transformer in PyTorch,https://github.com/threelittlemonkeys/transformer-pytorch,Y
+PS-Dataset,https://github.com/rmitra/PS-Dataset,Y
+Authors: Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com),https://github.com/google/leveldb,N
+About Deep Domain Adaptation Networks (ddan),https://github.com/erlendd/ddan,Y
+A toolbox for predicting clinical outcome of Alzheimer_�_s Diseases.,https://github.com/zyy123jy/kdd,Y
+Multipath RefineNet,https://github.com/guosheng/refinenet,Y
+Description,https://github.com/ShashankMasade/major-project,N
+Sentence Training,https://github.com/yu239/sentence-training,Y
+TensorFlow-classifiers,https://github.com/XinlueLiu/TensorFlow-classifiers,Y
+WassNet,https://github.com/Cody2333/WassNet,Y
+tf-faster-rcnn is deprecated:,https://github.com/lucs-C/tf-faster-rcnn-master,N
+GANCS,https://github.com/gongenhao/GANCS,Y
+CycleGAN-TensorFlow,https://github.com/beginner1997/Newc,Y
+Scanner is a system for developing applications that efficiently process large video datasets.,https://github.com/scanner-research/scanner,Y
+CarParkingDetection_Contest,https://github.com/tejasmagia/CarParkingDetection_Contest,Y
+"pytorch Implementation of U-Net, R2U-Net, Attention U-Net, Attention R2U-Net",https://github.com/LeeJunHyun/Image_Segmentation,Y
+SimpleNLG,https://github.com/simplenlg/simplenlg,Y
+deep-autoencoder,https://github.com/varennes/deep-autoencoder,Y
+Deformable Convolutional Networks,https://github.com/stupidZZ/pyc_repo,Y
+RankMap Project.,https://github.com/azalia/RankMap,Y
+vesicle,https://github.com/neurodata/vesicle,Y
+Single-Shot Refinement Neural Network for Object Detection,https://github.com/laycoding/renlianjiance,Y
+Impulse response estimation,https://github.com/carl-andersson/impest,Y
+MobileNetV2 Quantized,https://github.com/caffe2/models/tree/master/mobilenet_v2_quantized,Y
+QA4IE,https://github.com/SJTU-lqiu/QA4IE,Y
+libcmaes,https://github.com/beniz/libcmaes,Y
+# The Brood War API {#BWAPI},https://github.com/bwapi/bwapi,N
+SEE: Towards Semi-Supervised End-to-End Scene Text Recognition,https://github.com/Bartzi/see,Y
+*SegMap*,https://github.com/ethz-asl/segmap,N
+Data Science Bowl 2018,https://github.com/yassineAlouini/data-science-bowl-2018,Y
+Knowledge Base Completion (kbc),https://github.com/facebookresearch/kbc,Y
+bdr,https://github.com/hcllaw/bdr,Y
+BERT,https://github.com/MaZhiyuanBUAA/bert-tf1.4.0,Y
+Efficient Yet Deep Convolutional Neural Networks for Semantic Segmentation,https://github.com/SharifAmit/DilatedFCNSegmentation,Y
+paralleluct,https://github.com/mirsoleimani/paralleluct,Y
+PyramidBox,https://github.com/EricZgw/PyramidBox,Y
+WideResNet-TF,https://github.com/Stick-To/WideResNet-TF,Y
+SarcasmDetection,https://github.com/Kaguura/SarcasmDetection,Y
+Boda: A C++ Framework for Efficient Experiments in Computer Vision [WIP],https://github.com/moskewcz/boda,Y
+Code for the paper: Sentence-State LSTM for Text Representation. This package consists of the code for both classification and sequence labelling. README files are included in each individual subfolder.,https://github.com/leuchine/S-LSTM,N
+Inception-v4,https://github.com/rubenrosales/inception_v4,Y
+Deep Reinforcement Learning in Pytorch,https://github.com/meg965/pytorch-rl,Y
+Text Corrector Software,https://github.com/sunnysinghnitb/text_corrector_software,Y
+:star: [NEW] :star:,https://github.com/akanimax/T2F,N
+Semantic Entity Retrieval Toolkit,https://github.com/cvangysel/SERT,Y
+Classifica-o-de-textos-com-doc2Vec,https://github.com/Antonildo43/Classifica-o-de-textos-com-doc2Vec,Y
+BERT,https://github.com/a414351664/Bert_MRC,Y
+Semantic-Segmentation-with-Full-Convolutional-Neural-Network,https://github.com/HqWei/Semantic-Segmentation-with-Full-Convolutional-Neural-Network,Y
+style_transfer/shapes_b,https://github.com/caffe2/models/tree/master/style_transfer/shapes_b,Y
+VGG11,https://github.com/aillicat/vgg11,Y
+Super Resolution,https://github.com/seanmullery/Super-Resolution,Y
+Trains a simple convnet on the MNIST dataset.,https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py,Y
+Eluvio DS NLP problem,https://github.com/Alleansa/eluvio,Y
+Neural-Machine-Translation-for-english-to-hindi,https://github.com/ArushiSinghal/NMT-assignment1,Y
+This library provides:,https://github.com/xcsp3team/XCSP3-Java-Tools,N
+BC learning for sounds,https://github.com/mil-tokyo/bc_learning_sound,Y
+High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection,https://github.com/liuwei16/CSP,Y
+Efficient Neural Architecture Search (ENAS) in PyTorch,https://github.com/carpedm20/ENAS-pytorch,Y
+BERT,https://github.com/chrisseiler96/bert-client-server-tests,Y
+text_gcn,https://github.com/yao8839836/text_gcn,Y
+[//]: # (Image References),https://github.com/bonniesjli/DQN_SR,N
+Lyrics generator,https://github.com/slme1109/lyrics-generator,Y
+,,
+,,400
+,,341

@@ -1,0 +1,253 @@
+repo_url,name,expected_fw
+https://github.com/tensorflow/models/tree/master/research/deeplab,DeepLab: Deep Labelling for Semantic Image Segmentation,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/textsum,Sequence-to-Sequence with Attention Model for Text Summarization.,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/tcn,Time Contrastive Networks,TensorFlow
+https://github.com/caffe2/models/tree/master/resnet50,resnet50,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/page,style_transfer/page,Caffe2
+https://github.com/tensorflow/models/tree/master/research/brain_coder,Brain Coder,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/nce-loss,example/nce-loss,MXNet
+https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py,#Train a simple deep CNN on the CIFAR10 small images dataset.,Keras
+https://github.com/tensorflow/models/tree/master/research/morph_net,MorphNet project has moved to https://github.com/google-research/morph-net.,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/darkmatter_b,style_transfer/darkmatter_b,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/cifar10_resnet.py,#Trains a ResNet on the CIFAR10 dataset.,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/whale_d,style_transfer/whale_d,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/mnist_sklearn_wrapper.py,Example of how to use sklearn wrapper,Keras
+https://github.com/keras-team/keras/blob/master/examples/antirectifier.py,#This example demonstrates how to write custom layers for Keras.,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/pieces_a,style_transfer/pieces_a,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/shapes_a,style_transfer/shapes_a,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/neural-style,example/neural-style,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/rug_c,style_transfer/rug_c,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/bi-lstm-sort,example/bi-lstm-sort,MXNet
+https://github.com/tensorflow/models/tree/master/research/differential_privacy,Deep Learning with Differential Privacy,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/grayloops,style_transfer/grayloops,Caffe2
+https://github.com/tensorflow/models/tree/master/research/lexnet_nc,LexNET for Noun Compound Relation Classification,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/tensorrt,Running the TensorFlow Official ResNet with TensorRT,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/distributed_training,example/distributed_training,MXNet
+https://github.com/apache/incubator-mxnet/tree/master/example/restricted-boltzmann-machine,example/restricted-boltzmann-machine,MXNet
+https://github.com/tensorflow/models/tree/master/research/compression,Compression with Neural Networks,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/adv_imagenet_models,Adversarially trained ImageNet models,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/cvt_text,Cross-View Training,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/hands,style_transfer/hands,Caffe2
+https://github.com/tensorflow/models/tree/master/research/neural_programmer,Neural Programmer,TensorFlow
+https://github.com/caffe2/models/tree/master/mobilenet_v2,mobilenet_v2,Caffe2
+https://github.com/tensorflow/models/tree/master/research/learning_to_remember_rare_events,Code for the Memory Module as described,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/dots_b,style_transfer/dots_b,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/gothic_b,style_transfer/gothic_b,Caffe2
+https://github.com/tensorflow/models/tree/master/research/object_detection,Tensorflow Object Detection API,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/a3c_blogpost,A3C Blog Post,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/imdb_bidirectional_lstm.py,#Trains a Bidirectional LSTM on the IMDB sentiment classification task.,Keras
+https://github.com/keras-team/keras/blob/master/examples/mnist_hierarchical_rnn.py,Example of using Hierarchical RNN (HRNN) to classify MNIST digits.,Keras
+https://github.com/tensorflow/models/tree/master/research/lm_1b,Language Model on One Billion Word Benchmark,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/muse_a,style_transfer/muse_a,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/flowers_a,style_transfer/flowers_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/gan,TFGAN Examples,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq_restore.py,#Restore a character-level sequence to sequence model from to generate predictions.,Keras
+https://github.com/apache/incubator-mxnet/tree/master/example/sparse,example/sparse,MXNet
+https://github.com/apache/incubator-mxnet/tree/master/example/gan,example/gan,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/portrait,style_transfer/portrait,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/femme,style_transfer/femme,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/muse_b,style_transfer/muse_b,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/pinnacle_a,style_transfer/pinnacle_a,Keras
+https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py,#Example script to generate text from Nietzsche's writings.,Keras
+https://github.com/tensorflow/models/tree/master/research/namignizer,Namignizer,TensorFlow
+https://github.com/caffe2/models/tree/master/bvlc_reference_rcnn_ilsvrc13,bvlc_reference_rcnn_ilsvrc13,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/deep_dream.py,#Deep Dreaming in Keras.,Keras
+https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py,Trains a simple convnet on the MNIST dataset.,Keras
+https://github.com/apache/incubator-mxnet/tree/master/example/multivariate_time_series,example/multivariate_time_series,MXNet
+https://github.com/pytorch/examples/tree/master/regression,Linear regression example,PyTorch
+https://github.com/tensorflow/models/tree/master/research/nst_blogpost,research/nst_blogpost,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/captcha,example/captcha,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/triangle2_b,style_transfer/triangle2_b,Caffe2
+https://github.com/tensorflow/models/tree/master/research/lm_commonsense,A Simple Method for Commonsense Reasoning,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/imdb_cnn.py,#This example demonstrates the use of Convolution1D for text classification.,Keras
+https://github.com/tensorflow/models/tree/master/research/inception,"For performance benchmarking, please see https://www.tensorflow.org/performance/benchmarks.",TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/named_entity_recognition,example/named_entity_recognition,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/rug_d,style_transfer/rug_d,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/reinforcement-learning,example/reinforcement-learning,MXNet
+https://github.com/tensorflow/models/tree/master/research/deep_contextual_bandits,Deep Bayesian Bandits Library,TensorFlow
+https://github.com/caffe2/models/tree/master/mask_rcnn_2go,MaskRCNN2GO Model,Caffe2
+https://github.com/pytorch/examples/tree/master/mnist_hogwild,mnist_hogwild,PyTorch
+https://github.com/keras-team/keras/blob/master/examples/tensorboard_embeddings_mnist.py,Trains a simple convnet on the MNIST dataset and embeds test data.,Keras
+https://github.com/tensorflow/models/tree/master/research/learning_unsupervised_learning,Learning Unsupervised Learning Rules,TensorFlow
+https://github.com/tensorflow/models/tree/master/official/wide_deep,Predicting Income with the Census Income Dataset,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/adversary,example/adversary,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/faceshape_b,style_transfer/faceshape_b,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/tiger_a,style_transfer/tiger_a,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/svrg_module,example/svrg_module,MXNet
+https://github.com/apache/incubator-mxnet/tree/master/example/recommenders,example/recommenders,MXNet
+https://github.com/apache/incubator-mxnet/tree/master/example/multi-task,example/multi-task,MXNet
+https://github.com/keras-team/keras/blob/master/examples/mnist_dataset_api.py,MNIST classification with TensorFlow's Dataset API.,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/mondrian,style_transfer/mondrian,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/autoencoder,example/autoencoder,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/bwtiger_d,style_transfer/bwtiger_d,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/triangle2_a,style_transfer/triangle2_a,Caffe2
+https://github.com/pytorch/examples/tree/master/reinforcement_learning,Reinforcement learning training example,PyTorch
+https://github.com/caffe2/models/tree/master/style_transfer/whale_c,style_transfer/whale_c,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/mnist_transfer_cnn.py,Transfer learning toy example.,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/bwtiger_c,style_transfer/bwtiger_c,Caffe2
+https://github.com/pytorch/examples/tree/master/imagenet,ImageNet training in PyTorch,PyTorch
+https://github.com/caffe2/models/tree/master/bvlc_reference_caffenet,bvlc_reference_caffenet,Caffe2
+https://github.com/tensorflow/models/tree/master/research/seq2species,Seq2Species: Neural Network Models for Species Classification,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/image_ocr.py,Optical character recognition,Keras
+https://github.com/keras-team/keras/blob/master/examples/imdb_fasttext.py,#This example demonstrates the use of fasttext for text classification,Keras
+https://github.com/tensorflow/models/tree/master/research/deep_speech,DeepSpeech2 Model,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/crayon,style_transfer/crayon,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/stochastic-depth,example/stochastic-depth,MXNet
+https://github.com/apache/incubator-mxnet/tree/master/example/numpy-ops,example/numpy-ops,MXNet
+https://github.com/tensorflow/models/tree/master/research/adversarial_text,Adversarial Text Classification,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/capsnet,example/capsnet,MXNet
+https://github.com/apache/incubator-mxnet/tree/master/example/kaggle-ndsb2,example/kaggle-ndsb2,MXNet
+https://github.com/tensorflow/models/tree/master/research/transformer,Spatial Transformer Network,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/neural_gpu,NeuralGPU,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/mnist_mlp.py,Trains a simple deep NN on the MNIST dataset.,Keras
+https://github.com/keras-team/keras/blob/master/examples/mnist_denoising_autoencoder.py,Trains a denoising autoencoder on MNIST dataset.,Keras
+https://github.com/apache/incubator-mxnet/tree/master/example/cnn_text_classification,example/cnn_text_classification,MXNet
+https://github.com/caffe2/models/tree/master/inception_v2,inception_v2,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/night_b,style_transfer/night_b,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/mnist_siamese.py,Trains a Siamese MLP on pairs of digits from the MNIST dataset.,Keras
+https://github.com/keras-team/keras/blob/master/examples/mnist_swwae.py,Trains a stacked what-where autoencoder built on residual blocks on the,Keras
+https://github.com/tensorflow/models/tree/master/official/mnist,MNIST in TensorFlow,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/gladiator_b,style_transfer/gladiator_b,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/reuters_mlp.py,Trains and evaluate a simple MLP,Keras
+https://github.com/keras-team/keras/blob/master/examples/conv_filter_visualization.py,"#Visualization of the filters of VGG16, via gradient ascent in input space.",Keras
+https://github.com/caffe2/models/tree/master/style_transfer/whale_a,style_transfer/whale_a,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/whale_b,style_transfer/whale_b,Caffe2
+https://github.com/tensorflow/models/tree/master/research/slim,TensorFlow-Slim image classification model library,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/mnist_acgan.py,#Train an Auxiliary Classifier GAN (ACGAN) on the MNIST dataset.,Keras
+https://github.com/apache/incubator-mxnet/tree/master/example/vae-gan,example/vae-gan,MXNet
+https://github.com/caffe2/models/tree/master/bvlc_alexnet,bvlc_alexnet,Caffe2
+https://github.com/pytorch/examples/tree/master/snli,snli,PyTorch
+https://github.com/apache/incubator-mxnet/tree/master/example/caffe,example/caffe,MXNet
+https://github.com/pytorch/examples/tree/master/word_language_model,Word-level language modeling RNN,PyTorch
+https://github.com/apache/incubator-mxnet/tree/master/example/cnn_chinese_text_classification,example/cnn_chinese_text_classification,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/wave_a,style_transfer/wave_a,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/babi_rnn.py,Trains two recurrent neural networks based upon a story and a question.,Keras
+https://github.com/tensorflow/models/tree/master/research/real_nvp,Real NVP in TensorFlow,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/ptn,Perspective Transformer Nets,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/dots_a,style_transfer/dots_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/street,StreetView Tensorflow Recurrent End-to-End Transcription (STREET) Model.,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/audioset,Models for AudioSet: A Large Scale Dataset of Audio Events,TensorFlow
+https://github.com/caffe2/models/tree/master/inception_v1,inception_v1,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/bwtiger_b,style_transfer/bwtiger_b,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/mosaic,style_transfer/mosaic,Caffe2
+https://github.com/tensorflow/models/tree/master/research/delf,DELF: DEep Local Features,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/vid2depth,vid2depth,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/global_objectives,Global Objectives,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/gladiator_a,style_transfer/gladiator_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/qa_kg,Module networks for question answering on knowledge graph,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/pinnacle_b,style_transfer/pinnacle_b,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/mnist_net2net.py,This is an implementation of Net2Net experiment with MNIST in,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/monroe,style_transfer/monroe,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/quantization,Model Quantization with Calibration Examples,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/wall_c,style_transfer/wall_c,Caffe2
+https://github.com/tensorflow/models/tree/master/research/pcl_rl,Code for several RL algorithms used in the following papers:,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/maskgan,MaskGAN: Better Text Generation via Filling in the ______,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/ssd,example/ssd,MXNet
+https://github.com/caffe2/models/tree/master/vgg19,vgg19,Caffe2
+https://github.com/caffe2/models/tree/master/squeezenet,squeezenet,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/conv_lstm.py,#This script demonstrates the use of a convolutional LSTM network.,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/darkmatter_a,style_transfer/darkmatter_a,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/peace_b,style_transfer/peace_b,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/flowers_b,style_transfer/flowers_b,Caffe2
+https://github.com/tensorflow/models/tree/master/research/next_frame_prediction,Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks.,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py,Neural style transfer with Keras.,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/fingerprint_b,style_transfer/fingerprint_b,Caffe2
+https://github.com/tensorflow/models/tree/master/research/resnet,Reproduced ResNet on CIFAR-10 and CIFAR-100 dataset.,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/watercolor,style_transfer/watercolor,Caffe2
+https://github.com/tensorflow/models/tree/master/official/transformer,Transformer Translation Model,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/pieces_b,style_transfer/pieces_b,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/fingerprint_a,style_transfer/fingerprint_a,Caffe2
+https://github.com/caffe2/models/tree/master/resnet50_quantized,ResNet50 Quantized Model,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/mnist_irnn.py,This is a reproduction of the IRNN experiment,Keras
+https://github.com/apache/incubator-mxnet/tree/master/example/deep-embedded-clustering,example/deep-embedded-clustering,MXNet
+https://github.com/keras-team/keras/blob/master/examples/imdb_lstm.py,#Trains an LSTM model on the IMDB sentiment classification task.,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/anime,style_transfer/anime,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/bayesian-methods,example/bayesian-methods,MXNet
+https://github.com/tensorflow/models/tree/master/research/keypointnet,KeypointNet,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/model-parallel,example/model-parallel,MXNet
+https://github.com/tensorflow/models/tree/master/research/rebar,REINFORCing Concrete with REBAR,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/image-classification,Image Classification,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/gothic_c,style_transfer/gothic_c,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/pretrained_word_embeddings.py,This script loads pre-trained word embeddings (GloVe embeddings),Keras
+https://github.com/tensorflow/models/tree/master/official/recommendation,Recommendation Model,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/peace_a,style_transfer/peace_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/marco,Automating the Evaluation of Crystallization Experiments,TensorFlow
+https://github.com/tensorflow/models/tree/master/official/keras_application_models,Keras Application Models Benchmark,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/swirly_a,style_transfer/swirly_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/adversarial_crypto,Learning to Protect Communications with Adversarial Neural Cryptography,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/triangle1_a,style_transfer/triangle1_a,Caffe2
+https://github.com/caffe2/models/tree/master/detectron/e2e_faster_rcnn_R-50-C4_2x,Detectron e2e_faster_rcnn_R-50-C4_2x,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/monoke_a,style_transfer/monoke_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/attention_ocr,Attention-based Extraction of Structured Information from Street View Imagery,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/spiral_c,style_transfer/spiral_c,Caffe2
+https://github.com/pytorch/examples/tree/master/mnist,Basic MNIST Example,PyTorch
+https://github.com/caffe2/models/tree/master/style_transfer/triangle3_a,style_transfer/triangle3_a,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/cool,style_transfer/cool,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/dsd,example/dsd,MXNet
+https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn_tfaugment2d.py,#Train a simple deep CNN on the CIFAR10 small images dataset using augmentation.,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/gothic_a,style_transfer/gothic_a,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/pop_a,style_transfer/pop_a,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/shapes_b,style_transfer/shapes_b,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/variational_autoencoder.py,Example of VAE on MNIST dataset using MLP,Keras
+https://github.com/tensorflow/models/tree/master/research/domain_adaptation,Introduction,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/imdb_cnn_lstm.py,#Train a recurrent convolutional network on the IMDB sentiment classification task.,Keras
+https://github.com/apache/incubator-mxnet/tree/master/example/rcnn,example/rcnn,MXNet
+https://github.com/apache/incubator-mxnet/tree/master/example/speech_recognition,example/speech_recognition,MXNet
+https://github.com/keras-team/keras/blob/master/examples/babi_memnn.py,#Trains a memory network on the bAbI dataset.,Keras
+https://github.com/tensorflow/models/tree/master/research/cognitive_planning,cognitive_planning,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/bwtiger_a,style_transfer/bwtiger_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/lfads,LFADS - Latent Factor Analysis via Dynamical Systems,TensorFlow
+https://github.com/tensorflow/models/tree/master/official/boosted_trees,Classifying Higgs boson processes in the HIGGS Data Set,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/rug_a,style_transfer/rug_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/autoencoder,research/autoencoder,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/ctc,example/ctc,MXNet
+https://github.com/caffe2/models/tree/master/style_transfer/spiral_b,style_transfer/spiral_b,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/animals,style_transfer/animals,Caffe2
+https://github.com/pytorch/examples/tree/master/vae,Basic VAE Example,PyTorch
+https://github.com/tensorflow/models/tree/master/research/autoaugment,"Train Wide-ResNet, Shake-Shake and ShakeDrop models on CIFAR-10",TensorFlow
+https://github.com/pytorch/examples/tree/master/dcgan,Deep Convolution Generative Adversarial Networks,PyTorch
+https://github.com/apache/incubator-mxnet/tree/master/example/kaggle-ndsb1,example/kaggle-ndsb1,MXNet
+https://github.com/tensorflow/models/tree/master/official/resnet,ResNet in TensorFlow,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/im2txt,Show and Tell: A Neural Image Caption Generator,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn_capsule.py,This example trains a simple CNN-Capsule Network on the CIFAR10 data set.,Keras
+https://github.com/tensorflow/models/tree/master/research/astronet,AstroNet has moved!,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/rnn,example/rnn,MXNet
+https://github.com/keras-team/keras/blob/master/examples/lstm_stateful.py,"#How to use a stateful LSTM model, stateful vs stateless LSTM performance comparison",Keras
+https://github.com/caffe2/models/tree/master/zfnet512,zfnet512,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/spiral_a,style_transfer/spiral_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/steve,Stochastic Ensemble Value Expansion,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/oil_a,style_transfer/oil_a,Caffe2
+https://github.com/tensorflow/models/tree/master/research/learned_optimizer,Learned Optimizer,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/mnist_tfrecord.py,"MNIST dataset with TFRecords, the standard TensorFlow data format.",Keras
+https://github.com/tensorflow/models/tree/master/research/skip_thoughts,Skip-Thought Vectors,TensorFlow
+https://github.com/apache/incubator-mxnet/tree/master/example/fcn-xs,example/fcn-xs,MXNet
+https://github.com/tensorflow/models/tree/master/research/swivel,Swivel in Tensorflow,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/cognitive_mapping_and_planning,Cognitive Mapping and Planning for Visual Navigation,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/faceshape_a,style_transfer/faceshape_a,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/wave_b,style_transfer/wave_b,Caffe2
+https://github.com/tensorflow/models/tree/master/research/efficient-hrl,Code for performing Hierarchical RL based on the following publications:,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/lstm_object_detection,Tensorflow Mobile Video Object Detection,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/wall_a,style_transfer/wall_a,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/reuters_mlp_relu_vs_selu.py,Compares self-normalizing MLPs with regular MLPs.,Keras
+https://github.com/tensorflow/models/tree/master/research/adversarial_logit_pairing,Adversarial logit pairing,TensorFlow
+https://github.com/caffe2/models/tree/master/style_transfer/night_a,style_transfer/night_a,Caffe2
+https://github.com/pytorch/examples/tree/master/super_resolution,Superresolution using an efficient sub-pixel convolutional neural network,PyTorch
+https://github.com/caffe2/models/tree/master/detectron/e2e_faster_rcnn_R-50-C4_1x,Detectron e2e_faster_rcnn_R-50-C4_1x,Caffe2
+https://github.com/pytorch/examples/tree/master/fast_neural_style,fast-neural-style :city_sunrise: :rocket:,PyTorch
+https://github.com/caffe2/models/tree/master/style_transfer/flowa,style_transfer/flowa,Caffe2
+https://github.com/apache/incubator-mxnet/tree/master/example/svm_mnist,example/svm_mnist,MXNet
+https://github.com/keras-team/keras/blob/master/examples/addition_rnn.py,An implementation of sequence to sequence learning for performing addition,Keras
+https://github.com/tensorflow/models/tree/master/research/fivo,Filtering Variational Objectives,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/neural_doodle.py,Neural doodle with Keras,Keras
+https://github.com/caffe2/models/tree/master/style_transfer/rug_b,style_transfer/rug_b,Caffe2
+https://github.com/pytorch/examples/tree/master/time_sequence_prediction,Time Sequence Prediction,PyTorch
+https://github.com/tensorflow/models/tree/master/research/minigo,MiniGo,TensorFlow
+https://github.com/caffe2/models/tree/master/densenet121,densenet121,Caffe2
+https://github.com/caffe2/models/tree/master/style_transfer/composition,style_transfer/composition,Caffe2
+https://github.com/tensorflow/models/tree/master/research/sentiment_analysis,Sentiment Analysis,TensorFlow
+https://github.com/tensorflow/models/tree/master/research/struct2depth,struct2depth,TensorFlow
+https://github.com/caffe2/models/tree/master/mobilenet_v2_quantized,MobileNetV2 Quantized,Caffe2
+https://github.com/tensorflow/models/tree/master/research/video_prediction,Video Prediction with Neural Advection,TensorFlow
+https://github.com/keras-team/keras/blob/master/examples/variational_autoencoder_deconv.py,Example of VAE on MNIST dataset using CNN,Keras
+https://github.com/caffe2/models/tree/master/bvlc_googlenet,bvlc_googlenet,Caffe2
+https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq.py,#Sequence to sequence example in Keras (character-level).,Keras

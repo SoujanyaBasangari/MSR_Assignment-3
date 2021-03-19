@@ -1,0 +1,161 @@
+repo_url,name,datasets_extracted,correct,missing,precision,recall,F1
+https://github.com/keras-team/keras/blob/master/examples/lstm_stateful.py,"#How to use a stateful LSTM model, stateful vs stateless LSTM performance comparison",4,0,0,0,0,0
+https://github.com/mhejrati/3D-Object,3D Object Detection and Reconstruction,0,0,1,0,0,0
+https://github.com/dtak/tree-regularization-public,NumPy Autograd Implementation,0,0,0,1,1,1
+https://github.com/yytang2012/darknet,Yolo-v3 and Yolo-v2 for Windows and Linux,7,5,0,0.714285714,1,0.833333333
+https://github.com/davidsvaughn/dts-tf,dts-tf,0,0,0,1,1,1
+https://github.com/h2oai/h2o-3,H2O,2,0,0,0,0,0
+https://github.com/wayalhruhi/gogle_bert,BERT,11,9,2,0.818181818,0.818181818,0.818181818
+https://github.com/taki0112/UGATIT,U-GAT-IT &mdash; Official TensorFlow Implementation,0,0,1,0,0,0
+https://github.com/amitaydr/Hackaton2018,Hackaton2018,0,0,6,0,0,0
+https://github.com/Guanghan/lighttrack,lighttrack,5,2,0,0.4,1,0.571428571
+https://github.com/tomMoral/post_training,Post_training,0,0,0,1,1,1
+https://github.com/GKalliatakis/Keras-VGG16-places365,Keras | VGG16 Places365 - VGG16 CNN models pre-trained on Places365-Standard for scene classification,0,0,2,0,0,0
+https://github.com/bearpaw/pytorch-pose,PyTorch-Pose,3,3,1,1,0.75,0.857142857
+https://github.com/michael-wzhu/dynamic_routing_pytorch,pytorch implementation of dynamic routing model by https://arxiv.org/pdf/1806.01501.pdf,0,0,0,1,1,1
+https://github.com/gidariss/LocNet,*LocNet: Improving Localization Accuracy for Object Detection*,2,1,2,0.5,0.333333333,0.4
+https://github.com/HareeshBahuleyan/tf-var-attention,Variational Attention for Sequence to Sequence Models,1,1,1,1,0.5,0.666666667
+https://github.com/banayoyo/yoolact,copy from: https://github.com/dbolya/yolact,2,2,0,1,1,1
+https://github.com/ifp-uiuc/anna,"Artifical neural networks, anytime",0,0,0,1,1,1
+https://github.com/guyemerson/sem-func,sem-func,0,0,0,1,1,1
+https://github.com/cuihenggang/geeps,GeePS,1,1,0,1,1,1
+https://github.com/fmow/baseline,fMoW: Functional Map of the World,0,0,0,1,1,1
+https://github.com/annlia/partitionMCMC,Code for the manuscript ``Partition MCMC for inference on acyclic digraphs'',0,0,0,1,1,1
+https://github.com/ARMUGHAN-SHAHID/MoboDensepose,DensePose:,2,1,0,0.5,1,0.666666667
+https://github.com/hqythu/bit-rnn,Bit-RNN,0,0,0,1,1,1
+https://github.com/SeungyounShin/EXTD,EXTD,0,0,1,0,0,0
+https://github.com/jbhuang0604/SelfExSR,Single Image Super-Resolution from Transformed Self-Exemplars (CVPR 2015),2,0,5,0,0,0
+https://github.com/liuzhencheng/GCN_CODE,Graph Convolutional Networks in PyTorch,1,1,0,1,1,1
+https://github.com/gan3sh500/octaveconv-pytorch,Pytorch implementation of Octave Convolution,0,0,0,1,1,1
+https://github.com/leopiney/deep-forest,Introduction,0,0,0,1,1,1
+https://github.com/cdmh/deeplab-public-ver2,DeepLab v2,1,1,0,1,1,1
+https://github.com/tbmihailov/semeval2016-task3-CQA,Fine-Tuned word embeddings trained on the Community Question Answering data of QatarLiving.com forum as used in Semanticz System in the SemEval 2016 Task 3 Community Question Answering,2,1,1,0.5,0.5,0.5
+https://github.com/vdorie/npci,Contains R code to fit non-parmetric causal inference models. Of particular interest are the calculations in the examples folder.,0,0,0,1,1,1
+https://github.com/yysijie/st-gcn,Spatial Temporal Graph Convolutional Networks (ST-GCN),1,0,2,0,0,0
+https://github.com/sadicLiu/mask_rcnn_code,Faster R-CNN and Mask R-CNN in PyTorch 1.0,2,1,1,0.5,0.5,0.5
+https://github.com/ctuning/ck-mlperf,Collective Knowledge workflows for MLPerf,0,0,2,0,0,0
+https://github.com/ericjang/odin,ODIN: Out-of-Distribution Detector for Neural Networks,4,4,3,1,0.571428571,0.727272727
+https://github.com/clickbait-challenge/snapper,Detection of Clickbait posts,0,0,0,1,1,1
+https://github.com/cchinchristopherj/Concert-of-Whales,Concert of Whales,0,0,0,1,1,1
+https://github.com/pedrormjunior/ssvm-results,ssvm-results,1,0,0,0,0,0
+https://github.com/ewrfcas/Reinforced-Mnemonic-Reader,Reinforced Mnemonic Reader in tensorflow,1,1,0,1,1,1
+https://github.com/outcastofmusic/quick-nlp,Quick NLP,0,0,0,1,1,1
+https://github.com/noelcodes/cloth-recognition-version2,Home Page,0,0,0,1,1,1
+https://github.com/terrychenism/OctaveConv,OctaveConv,0,0,0,1,1,1
+https://github.com/Johnnylyu/Text-Mining-and-Classification-for-Attain,Workforce Analytics with Machine Learning-for-Attain,0,0,0,1,1,1
+https://github.com/craftGBD/craftGBD,Structure of this README,2,1,0,0.5,1,0.666666667
+https://github.com/LiQianxiao/discrete-MSA,Discrete Method of Successive Approximations,0,0,0,1,1,1
+https://github.com/oneTimePad/conv-nmt,conv-nmt,0,0,0,1,1,1
+https://github.com/NathanDuran/BERT,BERT,11,9,2,0.818181818,0.818181818,0.818181818
+https://github.com/ArcherFMY/HCA_saliency_codes,Hierarchical Cellular Automata for Visual Saliency,0,0,5,0,0,0
+https://github.com/universvm/BacXeption,BacXeption,0,0,0,1,1,1
+https://github.com/gsig/charades-algorithms,Charades Starter Code for Activity Recognition in Torch and PyTorch,2,2,1,1,0.666666667,0.8
+https://github.com/caffe2/models/tree/master/style_transfer/rug_a,style_transfer/rug_a,0,0,0,1,1,1
+https://github.com/arranger1044/spyn-repr,spyn-repr,1,1,2,1,0.333333333,0.5
+https://github.com/fangxiangfeng/deepnet,deepnet,0,0,0,1,1,1
+https://github.com/xiaochus/MobileNetV2,MobileNet v2,1,1,0,1,1,1
+https://github.com/benedekrozemberczki/N-GCN-and-MixHop,MixHop and N-GCN,3,3,0,1,1,1
+https://github.com/ShaharrHorn/Detection-Game-logic,Yolo-v3 and Yolo-v2 for Windows and Linux,6,5,0,0.833333333,1,0.909090909
+https://github.com/alexz01/proteinatlax,proteinatlax,0,0,0,1,1,1
+https://github.com/111qqz/caffe-ssd,SSD: Single Shot MultiBox Detector,2,2,2,1,0.5,0.666666667
+https://github.com/qbzhao/BCPF,Bayesian-CP-Factorization (BCPF),0,0,0,1,1,1
+https://github.com/jflalonde/illuminationSingleImage,This code implements the single-image illumination estimation technique,0,0,0,1,1,1
+https://github.com/rwth-i6/returnn-experiments,This repo contains the configs and related files,0,0,0,1,1,1
+https://github.com/rcmalli/keras-squeezenet,SqueezeNet v1.1 Implementation using Keras Functional Framework 2.0,0,0,0,1,1,1
+https://github.com/domschl/syncognite,syncognite - A neural network library inspired by Stanford's CS231n course,3,3,1,1,0.75,0.857142857
+https://github.com/arJaffe/BinaryLatentVariables,BinaryLatentVariables,0,0,0,1,1,1
+https://github.com/jmmcd/ponyge,Grammatical evolution (GE) is an evolutionary algorithm which uses,1,0,0,0,0,0
+https://github.com/jrguo/FastGradientSignMNIST,FastGradientSignMNIST,1,1,0,1,1,1
+https://github.com/hbf/miniball,![](http://hbf.github.com/miniball/miniball.png),1,0,0,0,0,0
+https://github.com/Swybino/PotatoNet,PotatoNet,0,0,0,1,1,1
+https://github.com/zxytim/EAST,EAST : An Efficient and Accurate Scene Text Detector,0,0,2,0,0,0
+https://github.com/wasimusu/MachineRC,PyTorch Implementation of Dynamic Coattention Network,1,1,0,1,1,1
+https://github.com/cchinchristopherj/Right-Whale-Unsupervised-Model,Right Whale Detection Challenge Part II,1,1,0,1,1,1
+https://github.com/hrtavakoli/iseel,"This repository contains a demonstration code for our saliency model,",0,0,0,1,1,1
+https://github.com/agentile/PHP-Stanford-NLP,PHP-Stanford-NLP,0,0,0,1,1,1
+https://github.com/susmith98/Face_Recognition,Face recognition using Facenet Model,0,0,0,1,1,1
+https://github.com/gan3sh500/local-relational-nets,Local Relational Networks for Image Recognition,0,0,0,1,1,1
+https://github.com/necludov/group-sparsity-sbp,Structured Bayesian Pruning  via Log-Normal Multiplicative Noise,2,2,0,1,1,1
+https://github.com/mhauskn/HFO,RoboCup 2D Half Field Offense,0,0,0,1,1,1
+https://github.com/LMaxence/Cifar10_Classification,TP3 Deep Learning with PyTorch: CIFAR10 object classification,2,1,0,0.5,1,0.666666667
+https://github.com/twitter/AnomalyDetection,AnomalyDetection R package,0,0,0,1,1,1
+https://github.com/johnsonkee/graduate_design,CleverHans (latest release: v3.0.1),1,1,0,1,1,1
+https://github.com/MaLL-UFSCar/ontext,OntExt,1,0,0,0,0,0
+https://github.com/d-li14/octconv.pytorch,octconv.pytorch,1,1,0,1,1,1
+https://github.com/dabsdamoon/Anime-Colorization-v0.2,Anime-Colorization v0.2,1,0,1,0,0,0
+https://github.com/tonywu95/eval_gen,#On the Quantitative Analysis of Decoder-Based Models,1,1,0,1,1,1
+https://github.com/contemn1/sentence_embeddings,Sentence Embeddings,0,0,0,1,1,1
+https://github.com/mlennox/summarisers,summarisers,1,0,1,0,0,0
+https://github.com/gryan12/chat-bot,qna chat-bot,1,1,0,1,1,1
+https://github.com/Rongpeng-Lin/StarGAN-Multi-domain-use-tensorflow,StarGAN-Multi-domain-use-tensorflow,0,0,0,1,1,1
+https://github.com/BobaZooba/Unsupervised-Data-Augmentation,Unsupervised Data Augmentation,0,0,0,1,1,1
+https://github.com/rubengooj/pl-slam,"Notice that this repository is only an open-source version of PL-SLAM released with the aim of being useful for the community, however, it is far from being optimized and we are not including some features of PL-SLAM.",0,0,0,1,1,1
+https://github.com/anonymous-author1/DDRL,DDRL A3C,0,0,0,1,1,1
+https://github.com/awur978/Autoencoder,Autoencoder,1,1,0,1,1,1
+https://github.com/vedantc6/SeqGAN,SeqGAN,0,0,0,1,1,1
+https://github.com/navganti/SegNet,SegNet and Bayesian SegNet Tutorial,1,1,0,1,1,1
+https://github.com/sainimohit23/FaceNet-Real-Time-face-recognition,FaceNet-with-TripletLoss,0,0,0,1,1,1
+https://github.com/gittb/audiosandbox,Outline of steps for attempting NLP with audio instead of text. *Everything is WIP*,0,0,0,1,1,1
+https://github.com/tensorflow/models/tree/master/research/steve,Stochastic Ensemble Value Expansion,1,1,0,1,1,1
+https://github.com/afzalahmad0203/Tensorflow-Shufflenet,Shufflenet Tensorflow,0,0,0,1,1,1
+https://github.com/tsourolampis/opdyn-social-influence,Opinion Dynamics with Varying Susceptibility to Persuasion,0,0,0,1,1,1
+https://github.com/Gorov/LowRankFCM,LowRankFCM,0,0,0,1,1,1
+https://github.com/steverab/tensor-gmm,tensor-gmm,0,0,0,1,1,1
+https://github.com/FulstatResearch/Machine-Translation-Language-Model,Machine Translation Languages,0,0,1,0,0,0
+https://github.com/hanzhanggit/StackGAN-v2,StackGAN-v2,5,4,0,0.8,1,0.888888889
+https://github.com/jamesgolden1/mri_super_resolution,MRI Super Resolution,0,0,0,1,1,1
+https://github.com/tuetschek/ratpred,RatPred,1,0,0,0,0,0
+https://github.com/openalpr/benchmarks,benchmarks,0,0,0,1,1,1
+https://github.com/syzroy/4099-Emotion-Analyser,4099-Emotion-Analyser,0,0,1,0,0,0
+https://github.com/lukemelas/EfficientNet-PyTorch,EfficientNet PyTorch,1,1,0,1,1,1
+https://github.com/Leavingseason/xDeepFM,xDeepFM,0,0,0,1,1,1
+https://github.com/facebookresearch/FixRes,FixRes,1,1,0,1,1,1
+https://github.com/xgastaldi/shake-shake,Shake-Shake regularization,3,3,0,1,1,1
+https://github.com/DmitryUlyanov/AGE,This repository contains code for the paper,4,4,1,1,0.8,0.888888889
+https://github.com/haebeom-lee/dropmax,DropMax: Adaptive Variationial Softmax,0,0,0,1,1,1
+https://github.com/bcsrn/gcn,gcn,1,1,0,1,1,1
+https://github.com/sckangz/SDM16,SDM16,0,0,0,1,1,1
+https://github.com/dk67604/ImageToImageTranslation,ImageToImageTranslation,0,0,1,0,0,0
+https://github.com/nitbix/toupee,Welcome to Toupee,1,1,0,1,1,1
+https://github.com/xuxu116/pytorch-reid-lite,Overview,3,2,1,0.666666667,0.666666667,0.666666667
+https://github.com/ipeirotis/Get-Another-Label,Description,1,0,0,0,0,0
+https://github.com/google-research/uda,Unsupervised Data Augmentation,4,4,0,1,1,1
+https://github.com/rsantana-isg/graybox_fda_paper,graybox_fda_paper,0,0,0,1,1,1
+https://github.com/hhjiang/mcores,mcores,0,0,0,1,1,1
+https://github.com/ndrplz/dreyeve,DR(eye)VE Project: code repository,0,0,0,1,1,1
+https://github.com/vadimkantorov/cvpr2014,Information & Contact,0,0,0,1,1,1
+https://github.com/davidismael/BEGAN,BE_GAN,0,0,0,1,1,1
+https://github.com/ZH-Lee/Tensorflow-Mobilenet,Tensorflow-Mobilenet,1,1,0,1,1,1
+https://github.com/khanrc/pt.fractalnet,FractalNet: Ultra-deep neural networks without residuals,0,0,2,0,0,0
+https://github.com/jiasenlu/HieCoAttenVQA,Hierarchical Question-Image Co-Attention for Visual Question Answering,1,0,2,0,0,0
+https://github.com/alfredvc/paac,Efficient Parallel Methods for Deep Reinforcement Learning,1,1,0,1,1,1
+https://github.com/countif/enas_nni,enas_nni,1,1,0,1,1,1
+https://github.com/idobronstein/my_WRN,wrn-tensorflow,1,1,0,1,1,1
+https://github.com/charlesq34/pointnet,PointNet: *Deep Learning on Point Sets for 3D Classification and Segmentation*,2,2,0,1,1,1
+https://github.com/bairdzhang/smallhardface,Robust Face Detection via Learning Small Faces on Hard Images,3,3,1,1,0.75,0.857142857
+https://github.com/jedz5/hisFirstRepo,What,0,0,0,1,1,1
+https://github.com/pesong/ssd-caffe,SSD: Single Shot MultiBox Detector,2,2,2,1,0.5,0.666666667
+https://github.com/MichaelWangfc/distributed-tensorflow-resnet,Distributed ResNet on Cifar and Imagenet Dataset.,3,3,0,1,1,1
+https://github.com/hikaruya8/lstm_model_py,lstm_model_py,0,0,0,1,1,1
+https://github.com/lmb-freiburg/td-or-not-td,Code for the paper: TD or not TD: Analyzing the Role of Temporal Differencing in Deep Reinforcement Learning,0,0,0,1,1,1
+https://github.com/brbzjl/pointnet2,PointNet++: *Deep Hierarchical Feature Learning on Point Sets in a Metric Space*,3,3,0,1,1,1
+https://github.com/allenai/arc-solvers,ARC-Solvers,0,0,1,0,0,0
+https://github.com/socs2017-48/anon48,anon48,0,0,0,1,1,1
+https://github.com/cvangysel/pyndri,pyndri,1,1,0,1,1,1
+https://github.com/jooyounghun/AI-Team-5,AI-Team-5: Combine Two Paper using Python,1,1,0,1,1,1
+https://github.com/5vision/DARQN,DARQN,0,0,0,1,1,1
+https://github.com/liufly/narrative-modeling,narrative-modeling,0,0,0,1,1,1
+https://github.com/ankit-vaghela30/Cilia-Segmentation,Cilia Segmentation,0,0,0,1,1,1
+https://github.com/simecek/Czech-ULMFiT,ULMFiT for Czech,2,0,1,0,0,0
+https://github.com/rickyhan/SimGAN-Captcha,SimGAN-Captcha,1,0,1,0,0,0
+https://github.com/norouzi/mih,Multi Index Hashing (MIH),0,0,2,0,0,0
+https://github.com/brunnergino/JamBot,JamBot: Music Theory Aware Chord Based Generation of Polyphonic Music with LSTMs,0,0,1,0,0,0
+https://github.com/qinwang/leela-zero,What,0,0,0,1,1,1
+https://github.com/machinelearning-goettingen/EfficientNet-ModelScaling,EfficientNet-ModelScaling,0,0,0,1,1,1
+https://github.com/LCSL/FALKON_paper,FALKON_paper,0,0,1,0,0,0
+https://github.com/khanrc/pt.darts,DARTS: Differentiable Architecture Search,3,3,0,1,1,1
+https://github.com/longchr123/insightface-analysis,InsightFace: 2D and 3D Face Analysis Project,4,4,2,1,0.666666667,0.8
+https://github.com/lancopku/Multi-Order-LSTM,High-Order-LSTM,0,0,0,1,1,1
+https://github.com/PetarV-/GAT,GAT,1,1,0,1,1,1
+https://github.com/corcra/bf2,bf2,0,0,0,1,1,1
+https://github.com/CodeChefVIT/VOID,Emotional AI,0,0,2,0,0,0
