@@ -96,10 +96,10 @@ From paper itself- Internal validity (section 5 –threats to validity)
 
 ![image](https://user-images.githubusercontent.com/65566187/111851126-7200be00-8912-11eb-892b-a76b1b7f0b08.png)
 
-* If tags are empty we cannot determine whether repository is AI related or not so we are fetching metadata
-* If tags are not empty and not matching with the list which we created then we are concluding it is AI related
-* If atleast one tag matches then we are fetching metadata
-* 
+   * If tags are empty we cannot determine whether repository is AI related or not so we are fetching metadata
+   * If tags are not empty and not matching with the list which we created then we are concluding it is AI related
+   * If atleast one tag matches then we are fetching metadata
+
 ![image](https://user-images.githubusercontent.com/65566187/111851160-88a71500-8912-11eb-97e9-68bdc819c389.png)
 
 * In order to check for bias in metadata extraction in AIMMX. We've hand-picked a few github repositories that aren't part of modelzoos, arXIV, or paperwithcode and tried to extract metadata.
