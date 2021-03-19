@@ -91,7 +91,14 @@ From paper itself- Internal validity (section 5 –threats to validity)
 * As the course is about mining software repositories, we tried using beautifulsoup and the selenium tools to extract metadata from the SoTA repository (paperwithcode web repository) in order to establish ground truth for evaluations. As a whole, we believe our experiment is suitable in the course.
 
 ## Implementation
-* We attempted to address this threat by generating the metadata for ground truth. For doing this we used beautifulsoup to mine AI -related websites. We are able to extract metadata from SoTA website. We also attempted to extract metadata from model zoos website  but since the majority of the pages are written entirely in javascript, we were unable to do so with beautifulsoup. We need deeper understanding of selenium tools
+### Threat 1
+* We have tried to automate the work which was done manually in the original paper which is creating dataset for evaluation. For doing the same we have used scraping techniques such as Beautifulsoup. 
+* We have extracted project metadata information from SOTA repository and generated a sample dataset of nearly 270 projects. In SOTA repositories are segregated according to the topic name. Hence, we tried to fetch all the links in each topic and passed through our function to fetch the metadata information.  
+* We are able to fetch Title of project, domain name, datasets used for projects, GitHub link of project and information is saved in a csv file.
+* We tried to create a small dataset as it was consuming more time to fetch data for just few links.
+* We also attempted to extract metadata from model zoos website  but since the majority of the pages are written entirely in javascript, we were unable to do so with beautifulsoup. We need deeper understanding of selenium tools
+
+### Threat 2
 * In order to determine whether repository is AI related or not. We have implemented a method that fetches the tags of repositories and check whether tags are related to AI model or not. As suggested in paper we tried with ML classifier but we discovered that with this method, we can classify with 60% accuracy.And for ML classifier we are not able to generated proper features.
 
 ![image](https://user-images.githubusercontent.com/65566187/111851126-7200be00-8912-11eb-892b-a76b1b7f0b08.png)
@@ -102,10 +109,12 @@ From paper itself- Internal validity (section 5 –threats to validity)
 
 ![image](https://user-images.githubusercontent.com/65566187/111851160-88a71500-8912-11eb-97e9-68bdc819c389.png)
 
+### Threat 3
 * In order to check for bias in metadata extraction in AIMMX. We've hand-picked a few github repositories that aren't part of modelzoos, arXIV, or paperwithcode and tried to extract metadata.
 
 ## Results
-*  We are able to generate dataset from paperswithcode website which entirely have AI related models. The generated dataset can be found under data folder.We cross validated repository links in generated dataset and original dataset. Found that SoTa links in original dataset are almost similar with generated dataset
+*  We are able to generate dataset from paperswithcode website which entirely have AI related models. The generated dataset can be found under data folder.We cross validated repository links in generated dataset and original dataset. Found that SoTa links in original dataset are almost similar with generated dataset.
+   ![image](https://user-images.githubusercontent.com/65566187/111851771-dde42600-8914-11eb-9388-0aecbc319823.png)
 *  We are able to identify whether repository have AI model or not if repository have tags/ topics mentioned. As some of the repositories don’t have tags/topics to determine whether it is AI related tag or not. We can’t rely completely on this method for classifying. 
 *  We haven’t noticed any bias while trying to fetch metadata from other repositories (not part of modelzoos, arXiv, soTa) 
 
