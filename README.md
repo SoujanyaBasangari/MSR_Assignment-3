@@ -93,6 +93,15 @@ From paper itself- Internal validity (section 5 –threats to validity)
 ## Implementation
 * We attempted to address this threat by generating the metadata for ground truth. For doing this we used beautifulsoup to mine AI -related websites. We are able to extract metadata from SoTA website. We also attempted to extract metadata from model zoos website  but since the majority of the pages are written entirely in javascript, we were unable to do so with beautifulsoup. We need deeper understanding of selenium tools
 * In order to determine whether repository is AI related or not. We have implemented a method that fetches the tags of repositories and check whether tags are related to AI model or not. As suggested in paper we tried with ML classifier but we discovered that with this method, we can classify with 60% accuracy.And for ML classifier we are not able to generated proper features.
+
+![image](https://user-images.githubusercontent.com/65566187/111851126-7200be00-8912-11eb-892b-a76b1b7f0b08.png)
+
+* If tags are empty we cannot determine whether repository is AI related or not so we are fetching metadata
+* If tags are not empty and not matching with the list which we created then we are concluding it is AI related
+* If atleast one tag matches then we are fetching metadata
+* 
+![image](https://user-images.githubusercontent.com/65566187/111851160-88a71500-8912-11eb-97e9-68bdc819c389.png)
+
 * In order to check for bias in metadata extraction in AIMMX. We've hand-picked a few github repositories that aren't part of modelzoos, arXIV, or paperwithcode and tried to extract metadata.
 
 ## Results
