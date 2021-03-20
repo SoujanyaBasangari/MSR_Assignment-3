@@ -114,7 +114,8 @@ From paper itself- Internal validity (section 5 –threats to validity)
 
 ## Results
 *  We are able to generate dataset from paperswithcode website which entirely have AI related models. The generated dataset can be found under data folder.We cross validated repository links in generated dataset and original dataset. Found that SoTa links in original dataset are almost similar with generated dataset.
-   ![image](https://user-images.githubusercontent.com/65566187/111851771-dde42600-8914-11eb-9388-0aecbc319823.png)
+   ![image](https://user-images.githubusercontent.com/65566187/111871631-803ef080-898b-11eb-8f4a-ca877e4d1acb.png)
+   
 *  We are able to identify whether repository have AI model or not if repository have tags/ topics mentioned. As some of the repositories don’t have tags/topics to determine whether it is AI related tag or not. We can’t rely completely on this method for classifying. 
 *  We haven’t noticed any bias while trying to fetch metadata from other repositories (not part of modelzoos, arXiv, soTa) 
 
